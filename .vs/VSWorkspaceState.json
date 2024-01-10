@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebsocketClient\\WebsocketClient",
+    "\\WebSocketExample",
+    "\\WebSocketExample\\WebSocketExample"
   ],
+  "SelectedNode": "\\WebSocketExample\\WebSocketExample\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
