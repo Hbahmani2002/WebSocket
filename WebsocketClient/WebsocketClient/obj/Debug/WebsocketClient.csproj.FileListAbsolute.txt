@@ -1,0 +1,7 @@
+C:\Hassan\Softs\WebsocketClient\WebsocketClient\bin\Debug\WebsocketClient.exe.config
+C:\Hassan\Softs\WebsocketClient\WebsocketClient\bin\Debug\WebsocketClient.exe
+C:\Hassan\Softs\WebsocketClient\WebsocketClient\bin\Debug\WebsocketClient.pdb
+C:\Hassan\Softs\WebsocketClient\WebsocketClient\obj\Debug\WebsocketClient.csproj.AssemblyReference.cache
+C:\Hassan\Softs\WebsocketClient\WebsocketClient\obj\Debug\WebsocketClient.csproj.CoreCompileInputs.cache
+C:\Hassan\Softs\WebsocketClient\WebsocketClient\obj\Debug\WebsocketClient.exe
+C:\Hassan\Softs\WebsocketClient\WebsocketClient\obj\Debug\WebsocketClient.pdb
